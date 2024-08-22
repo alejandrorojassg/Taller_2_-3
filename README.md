@@ -2,15 +2,15 @@
 # ¡PYTHON FC!
 <details>
   <summary>DORSAL 9</summary>
-  Said Kaled Ibrahim Essa
+  Said Kaled Ibrahim Essa, Allahu Akbar
 </details>
 <details>
   <summary>DORSAL 10</summary>
-  Luis Alejandro Rojas Guillén
+  Luis Alejandro Rojas Guillén, Rinis Aguda-Barça
 </details>
 <details>
   <summary>DORSAL 11</summary>
-  Daniel Garzón Cuasquen
+  Daniel Garzón Cuasquen, Hacker 'Hackeó la Universidad'
 </details>
 
 <details>
