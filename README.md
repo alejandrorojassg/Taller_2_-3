@@ -736,7 +736,7 @@ def elementos_ausentes(lista1: list, lista2: list) -> list:
     """
     Encuentra y retorna los elementos que están en la primera lista pero no en la segunda.
 
-    Parámetros:
+    Parámetros:.
     lista1 (list): La primera lista de elementos.
     lista2 (list): La segunda lista de elementos.
 
